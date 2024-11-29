@@ -151,7 +151,7 @@ curl --location 'http://127.0.0.1:5005/v1/chat/completions' \
 ### 直接部署
 
 ```bash
-git clone https://github.com/LanQian528/chat2api
+git clone https://github.com/zfgw1553/chat2api
 cd chat2api
 pip install -r requirements.txt
 python app.py
